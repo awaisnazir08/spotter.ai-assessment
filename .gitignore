@@ -1,1 +1,7 @@
 freight-rate-ml-assessment.pdf
+model/
+scorer_results/*
+!scorer_results/candidate_december.png
+__pycache__/
+extras/
+*.tmp
